@@ -1,0 +1,40 @@
+{
+	"name": "221216-svelte",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"test:unit": "vitest",
+		"lint": "prettier --plugin-search-dir . --check . && eslint .",
+		"format": "prettier --plugin-search-dir . --write ."
+	},
+	"devDependencies": {
+		"@supabase/supabase-js": "^1.8.0",
+		"@sveltejs/adapter-auto": "^1.0.0-next.91",
+		"@sveltejs/kit": "^1.0.0",
+		"@tailwindcss/typography": "^0.5.8",
+		"autoprefixer": "^10.4.7",
+		"eslint": "^8.28.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-svelte3": "^4.0.0",
+		"graphql": "^16.6.0",
+		"graphql-request": "^5.1.0",
+		"postcss": "^8.4.14",
+		"postcss-load-config": "^4.0.1",
+		"prettier": "^2.8.1",
+		"prettier-plugin-svelte": "^2.9.0",
+		"svelte": "^3.54.0",
+		"svelte-preprocess": "^4.10.7",
+		"tailwindcss": "^3.1.5",
+		"vite": "^4.0.0",
+		"vitest": "^0.25.3"
+	},
+	"type": "module",
+	"dependencies": {
+		"@prismicio/client": "^6.7.3",
+		"@prismicio/helpers": "^2.3.8",
+		"jquery": "^3.6.2"
+	}
+}

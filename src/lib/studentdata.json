@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Natesh Vedgiri",
+        "position": "Director, CEO",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sebastian-frowein#tab-1",
+        "mugshot": "staff/natesh.jpg"
+        
+    },
+
+    {
+        "name": "Raghu Nallani Chakravartula",
+        "position": "Director, CTO",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/clara-cotroneo#tab-1",
+        "mugshot": "staff/raghu.jpg"
+        
+    },
+    {
+        "name": "Narendra Singh",
+        "position": "Director, COO",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/carsten-gerards#tab-1",
+        "mugshot": "staff/narendra.jpg"
+        
+    },
+    {
+        "name": "Krzysztof Dancewicz",
+        "position": "Director-ANZ",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/ahmet-serdar-gunaydin#tab-1",
+        "mugshot": "staff/krzys.jpg"
+        
+    },
+    {
+        "name": "Balasundar Sivaramakrishnan",
+        "position": "CFO",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/matthias-van-lohuizen#tab-1",
+        "mugshot": "staff/balasundar.jpg"
+        
+    },
+    {
+        "name": "SM Zia Alam",
+        "position": "Chief People Officer",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/christian-patz#tab-1",
+        "mugshot": "staff/ziaalam.jpg"
+        
+    }, 
+    {
+        "name": "Diganta Hazarika",
+        "position": "Chief Product Officer",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/christian-patz#tab-1",
+        "mugshot": "staff/diganta.jpg"
+        
+    }, 
+    {
+        "name": "Nilakantan Venkateswaran",
+        "position": "Principal Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/somia-sadiq#tab-1",
+        "mugshot": "staff/Neel-pic.png"
+        
+    }, 
+    {
+        "name": "Aniket Anikhindi",
+        "position": "Principal Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/robin-schroeder#tab-1",
+        "mugshot": "staff/aniket.jpg"
+        
+    },
+     {
+        "name": "Vaishali Chincholkar",
+        "position": "Technical Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/pepijn-tuinier#tab-1",
+        "mugshot": "staff/vaishali.jpg"
+        
+    },
+     {
+        "name": "Avinash Thatte",
+        "position": "Principal Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sophie-veriter#tab-1",
+        "mugshot": "staff/avinash.jpg"
+        
+    },
+    {
+        "name": "Menaka Panchaksharam",
+        "position": "Principal Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sophie-veriter#tab-1",
+        "mugshot": "staff/menaka.jpg"
+        
+    },
+    {
+        "name": "Sumit Gadekar",
+        "position": "Senior Consultant",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sophie-veriter#tab-1",
+        "mugshot": "staff/sumit.png"
+        
+    },
+    {
+        "name": "Suresh Burde",
+        "position": "Principal Architect",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sophie-veriter#tab-1",
+        "mugshot": "staff/suresh.jpg"
+        
+    },
+    {
+        "name": "Jason Fuller",
+        "position": "Senior Consultant",
+        "link": "https://www.universiteitleiden.nl/en/staffmembers/sophie-veriter#tab-1",
+        "mugshot": "staff/jason.jpg"
+        
+    }
+
+
+]
