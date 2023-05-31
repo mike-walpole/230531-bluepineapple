@@ -24,12 +24,12 @@ We can access the people default import which is an array directly in the code -
 <div id="section-2" class="snap-start grid grid-cols-1 md:grid-cols-3 md:h-screen">
 	<div
 		id="container for logos"
-		class="px-5 md:px-10 grid grid-cols-1 md:grid-cols-3 md:h-2/3 col-start-1 col-end-3 md:my-auto order-last md:order-first grayscale"
+		class="px-5 md:px-10 grid grid-cols-1 md:grid-cols-3 md:h-2/3 col-start-1 col-end-3 md:my-auto order-last md:order-first  "
 	>
 		{#each Student as { name, mugshot, link, position }}
 			<a class="my-5" href={link}>
 				<div class="flex flex-rows w-full ">
-					<img class="h-24" loading="lazy" src={mugshot} alt={name} />
+					<img class="h-24 grayscale hover:grayscale-0" loading="lazy" src={mugshot} alt={name} />
 					<div class="flex flex-col justify-around mx-2 md:mx-5">
 						<p class="font-bold">{name}</p>
 						<p>{position}</p>
@@ -52,5 +52,12 @@ We can access the people default import which is an array directly in the code -
 			shared values to achieve our vision – Enable every enterprise user worldwide have the right
 			cloud experience!
 		</p>
+		<a href="/">
+			<button
+				class="border border-black  rounded px-4 py-2 text-lg uppercase tracking-widest mt-10 "
+			>
+				learn more &#8599;</button
+			>
+		</a>
 	</div>
 </div>

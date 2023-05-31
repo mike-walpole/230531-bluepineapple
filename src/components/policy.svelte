@@ -73,5 +73,13 @@
 			roadmaps that provide rapid time to market, incorporate your feedback constantly and create a
 			pathway for continuously improve your processes and systems.
 		</p>
+
+		<a href="/">
+			<button
+				class="border border-black  rounded px-4 py-2 text-lg uppercase tracking-widest mt-10 "
+			>
+				learn more &#8599;</button
+			>
+		</a>
 	</div>
 </div>

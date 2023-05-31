@@ -61,5 +61,13 @@
 			based solutions that cater to business needs of functionality, scale, interoperability,
 			mobility and security, helping your businesses grow much faster.
 		</p>
+
+		<a href="/">
+			<button
+				class="border border-black  rounded px-4 py-2 text-lg uppercase tracking-widest mt-10 "
+			>
+				learn more &#8599;</button
+			>
+		</a>
 	</div>
 </div>
