@@ -7,7 +7,7 @@
 		id="container for logos"
 		class="grid grid-cols-1 md:grid-cols-2 col-start-1 col-end-3 md:my-auto order-last md:order-first grayscale"
 	>
-		<figure class="max-w-screen-md px-5 mx-auto text-center">
+		<figure class="max-w-screen-md px-5 mx-auto text-center mb-10">
 			<svg
 				aria-hidden="true"
 				class="w-12 h-12 mx-auto mb-3 text-gray-400"
