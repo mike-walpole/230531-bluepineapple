@@ -2,7 +2,7 @@
 	let width = 'w-6/12';
 </script>
 
-<div class="snap-start bg-black grid grid-cols-1 md:grid-cols-3 md:h-screen mb-5 md:mb-0">
+<div class="snap-center bg-black grid grid-cols-1 md:grid-cols-3 md:h-screen mb-5 md:mb-0">
 	<div
 		id="container for leadership"
 		class="md:h-screen grid grid-cols-1 md:grid-cols-2 col-start-1 col-end-3 md:my-auto order-last md:order-first place-content-evenly"
